@@ -1,0 +1,1 @@
+.citazione-lang td{width:50%}.mw-parser-output .citazione-lang td:first-child{padding:0 0

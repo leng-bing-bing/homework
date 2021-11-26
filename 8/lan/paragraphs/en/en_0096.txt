@@ -1,0 +1,1 @@
+In April 2005, a Lucene extension[248][249] was added to MediaWiki's built-in search and Wikipedia switched from MySQL to Lucene for searching. Lucene was later replaced by CirrusSearch which is based on Elasticsearch.[250]

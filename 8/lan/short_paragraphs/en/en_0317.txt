@@ -1,0 +1,1 @@
+only "autoconfirmed" or "extended confirmed"

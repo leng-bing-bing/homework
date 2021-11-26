@@ -1,0 +1,1 @@
+Oltre all'editor classico che utilizza un linguaggio di markup estremamente semplificato (ad es. molto più semplice dell'HTML) il software MediaWiki mette a disposizione anche un editor visuale, chiamato VisualEditor.

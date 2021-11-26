@@ -1,0 +1,1 @@
+un editor visuale, chiamato VisualEditor.

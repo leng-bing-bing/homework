@@ -1,0 +1,1 @@
+Wikipedia se ejecuta sobre el software libre MediaWiki. MediaWiki es la fase III del programa, cuya historia de desarrollo es la siguiente:

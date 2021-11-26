@@ -1,0 +1,1 @@
+Wikipedia is opgezet in de vorm van een wiki, zodat elke inhoudelijke pagina in beginsel door iedere bezoeker bewerkt kan worden. Voor Wikipedia is een apart computerprogramma ontworpen. Deze software, MediaWiki, is opensourcesoftware die ook gebruikt wordt door de andere projecten van de Wikimedia Foundation en door vele andere projecten en bedrijven.

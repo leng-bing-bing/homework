@@ -1,0 +1,11 @@
+实验任务：学习scikit-learn官方教程"Working With Text Data"，完成其中的练习1和练习2。
+
+教程网址：https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
+
+中文翻译：https://scikitlearn.com.cn/0.21.3/59/
+
+注1：建议阅读英文版原文，中文版不保证完全正确。
+
+注2：本文件夹里已提供相关data，但是建议按官方教程提示自己获取。
+
+实验报告要求：把练习1和练习2的代码、运行结果及相关过程文字说明写在一个jupyter notebook里提交。
